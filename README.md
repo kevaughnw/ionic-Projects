@@ -22,11 +22,6 @@ Install Cordova
 $ npm install -g cordova
 ```
 
-Clone this repo
-```bash
-$ git clone https://github.com/mtfaroks/ionic-Projects.git
-```
-
 cd into the github folder run npm or yarn install
 ```bash
 $ npm install or yarn install

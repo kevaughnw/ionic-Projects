@@ -1,8 +1,5 @@
-# ionic-Projects
-ionic Projects
-
-## Github Ionic
-This is a sample Ionic 2 App that consumes the github API, and fetches data from already available github json file.
+# ScoreBook
+Webbabox Project
 
 ## Run the app
 Make sure you have [nodejs](https://nodejs.org/en/) installed.

@@ -27,9 +27,9 @@ Clone this repo
 $ git clone https://github.com/mtfaroks/ionic-Projects.git
 ```
 
-cd into the githubionic folder run npm install
+cd into the githubionic folder run npm or yarn install
 ```bash
-$ npm install
+$ npm install or yarn install
 ```
 
 You may need to restore the state of the ionic project, especially if you plan on using cordova.
@@ -39,7 +39,12 @@ ionic prepare
 
 Build the app
 ```bash
-$ npm run build
+$ npm run build or yarn run build
+```
+
+Run on android mobile
+```bash
+$ ionic cordova run android
 ```
 
 Serve the app
